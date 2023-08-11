@@ -6,7 +6,7 @@ int main() {
   int b = 20 ;
   int c = 30 ;
   int d = 40 ;
-  printf(" This is %d + %d = %d\n ", a , b , a + b) ;
+  printf( "This is %d + %d = %d" , a , b , a + b ) ;
   for ( int i = 0; i < d - 30; i++ )
   {
     if ( i < 30 ) 
